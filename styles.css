@@ -14,6 +14,48 @@
     text-decoration: none;
 
 }
+.paragraph1{
+    background-color:aquamarine;
+    border-radius: none;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 30px;
+}
+.pmission{
+    align-items: center;
+    font-size: larger;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding-left: 80px;
+    
+}
+.pvision{
+    font-size: larger;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 10px;
+
+}
+.mission{
+    font-size: medium;
+    text-align: justify;
+    text-decoration: none;
+    text-justify:auto;
+    text-transform:capitalize;
+}
+.vision{
+    font-size: medium;
+    text-align: justify;
+    text-decoration: none;
+    text-justify:auto;
+    text-transform:capitalize;
+}
+.navbar-brand{
+    align-content: justify;
+    padding-left: 650px;
+}
 .paragraphcare{
 font: Graduate;
 font-size: 30px;    
@@ -27,13 +69,26 @@ text-transform: uppercase;
 .buttoncontact{
     align-content: center;
     background-color: dimgray;
-    size: 30px;
+    padding-left: 400px;
     text-indent: center;
 
 }
 .paragraphbutton{
-    align-self: center;
-    text-indent: center;
-    
-
+    padding-left: 600px;
+}
+.vacancy{
+    font-size: x-large;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-left: 500px;
+}
+.butita{
+    padding: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    color: black;
+}
+.vactitle{
+    font-size: larger;
+    padding: 10px;
 }
