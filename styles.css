@@ -93,3 +93,19 @@ text-transform: uppercase;
     font-size: larger;
     padding: 10px;
 }
+.pservices{
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+.pcontent{
+    padding: 20px;
+    text-decoration: none;
+
+}
+.tservices{
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
