@@ -3,7 +3,7 @@
     background-image: url(pexels-johannes-plenio-1103970.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: auto;
+    max-height: fit-content;
 }
 .aside{
     text-decoration: none;
