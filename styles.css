@@ -118,6 +118,6 @@ text-decoration: none;
 
 @media only screen and (max-width:768px){
     [class*="body"]{
-        width: fit-content;
+        width: 100%;
     }
 }
