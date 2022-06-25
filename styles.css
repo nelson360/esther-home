@@ -1,10 +1,11 @@
 
 .body{
-    border: 0ch;
+    
+    height: 100vh;
     background-image: url(pexels-johannes-plenio-1103970.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    
 }
 .aside{
     text-decoration: none;
