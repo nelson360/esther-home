@@ -119,5 +119,6 @@ text-decoration: none;
         [class*="body"]{
             width: 100%;
             height: fit-content;
+            background-color: yellow;
         } 
     }
